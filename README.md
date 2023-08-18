@@ -1,3 +1,5 @@
+<h1 align="center">
+<img src="https://media.tenor.com/cF2sVHn47IEAAAAi/lava-abstract-art.gif" height="60"/></h1>
 <h1 align="center">Hi there, I'm <a href="https://github.com/ignatkuzyakov" target="_blank">Ignat</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 <h3 align="center">software engineer</h3>

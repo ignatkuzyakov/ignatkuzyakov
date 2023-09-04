@@ -2,10 +2,11 @@
 <img src="https://media.tenor.com/cF2sVHn47IEAAAAi/lava-abstract-art.gif" width = "80" height = "80"/></h1>
 <h1 align="center">Hi, I'm <a href="https://github.com/ignatkuzyakov" target="_blank">Ignat</a> 
 
+  
+## <h1 align="center"> Languages and Tools :
 
-## Languages and Tools :
 
-<p>
+<p align="center">
   <!-- Lang. Know -->
   <!-- C++ -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
